@@ -20,7 +20,7 @@
 ---
 
 ### 📫 Contact Me:
-- 📧 Email: [anshutingre2129@example.com](mailto:anshutingre2129@example.com)  
+- 📧 Email: [anshutingre2129@gmail.com](mailto:anshutingre2129@gmail.com)  
 - 🌐 GitHub: [github.com/Anshu-tech21](https://github.com/Anshu-tech21)
 
 ---
