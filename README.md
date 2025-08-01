@@ -21,6 +21,6 @@
 
 ### 📫 Contact Me:
 - 📧 Email: [anshutingre2129@example.com](mailto:anshutingre2129@example.com)  
-- 🌐 GitHub: [github.com/AnshuTingre](https://github.com/AnshuTingre)
+- 🌐 GitHub: [github.com/Anshu-tech21](https://github.com/Anshu-tech21)
 
 ---
